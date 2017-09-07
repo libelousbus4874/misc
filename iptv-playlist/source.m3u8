@@ -1,0 +1,126 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/abp_ananda.png",ABP Ananda
+http://edge4.digijadoo.net/hls/abp_ananda_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/al_jazeera.png",AL Jazeera
+http://edge4.digijadoo.net/hls/al_jazeera_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/animal_planet.png",Animal Planet
+http://edge4.digijadoo.net/hls/animal_planet_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/asian_tv.png",Asian TV
+http://edge4.digijadoo.net/hls/asian_tv_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/atn_bangla.png",ATN Bangla
+http://edge4.digijadoo.net/hls/atn_bangla_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/atn_news.png",ATN News
+http://edge4.digijadoo.net/hls/atn_news_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/bangla_vision.png",BanglaVision
+http://edge4.digijadoo.net/hls/bangla_vision_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/bbc_world.png",BBC World
+http://edge4.digijadoo.net/hls/bbc_world_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/bloomberg.png",Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/boishakhi_tv.png",Boishakhi TV
+http://edge4.digijadoo.net/hls/boishakhi_tv_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/btv_world.png",BTV World
+http://edge4.digijadoo.net/hls/btv_world_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/channel_9.png",Channel 9
+http://edge4.digijadoo.net/hls/channel_9_mid/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/channel_24.png",Channel 24
+http://edge4.digijadoo.net/hls/channel_24_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/channel_i.png",Channel I
+http://edge4.digijadoo.net/hls/channel_i_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/colors.png",Colors
+http://edge4.digijadoo.net/hls/colors_asia_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/colors_bangla.png",Colors Bangla
+http://edge4.digijadoo.net/hls/colors_bangla_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/desh_tv.png",Desh TV
+http://edge4.digijadoo.net/hls/desh_tv_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/ekattor_tv.png",Ekattor TV
+http://edge4.digijadoo.net/hls/ekattur_tv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/ekushey_tv.png",Ekushey TV
+http://edge4.digijadoo.net/hls/ekushey_tv_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/gazi_tv.png",GTV
+http://edge4.digijadoo.net/hls/gazi_tv_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/hum_sitarey.png",Hum Sitarey
+http://edge4.digijadoo.net/hls/hum_sitarey_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/independent_tv.png",Independent TV
+http://edge4.digijadoo.net/hls/independent_tv_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/jamuna_tv.png",Jamuna TV
+http://edge4.digijadoo.net/hls/jamuna_tv_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/maasranga_tv.png",Maasranga TV
+http://edge4.digijadoo.net/hls/maasranga_tv_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/mohona_tv.png",Mohona TV
+http://edge4.digijadoo.net/hls/mohona_tv_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/mtv.png",MTV
+http://edge4.digijadoo.net/hls/mtv_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/ndtv_24_7.png",NDTV 
+http://edge4.digijadoo.net/hls/ndtv_24_7_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/nickelodeon.png",Nickelodeon
+http://edge4.digijadoo.net/hls/nickelodeon_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/ntv.png",NTV
+http://edge4.digijadoo.net/hls/ntv_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/ptv_sports.png",PTV Sports
+http://edge4.digijadoo.net/hls/ptv_sports_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/sa_tv.png",SA TV
+http://edge4.digijadoo.net/hls/sa_tv_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/sangsad_tv.png",Sangsad TV
+http://edge4.digijadoo.net/hls/sangsad_tv_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/somoy_news.png",Somoy News
+http://edge4.digijadoo.net/hls/somoy_news_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/star_gold.png",Star Gold
+http://edge4.digijadoo.net/hls/star_gold.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/ten_cricket.png",Ten Cricket 
+http://edge4.digijadoo.net/hls/ten_sports_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/ten_sports1.png",Ten Sports 1
+http://edge4.digijadoo.net/hls/ten_sports_1_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/ten_sports2.png",Ten Sports 2
+http://edge4.digijadoo.net/hls/ten_sports_2_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/times_now.png",Times Now
+http://edge4.digijadoo.net/hls/times_now_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/zee_bangla.png",Zee Bangla
+http://edge4.digijadoo.net/hls/zee_bangla_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/zee_cinema.png",Zee Cinema
+http://edge4.digijadoo.net/hls/zee_cinema_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/zee_classic.png",Zee Classic
+http://edge4.digijadoo.net/hls/zee_classic_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ishrak1010/misc/master/iptv-playlist/icons/zee_tv.png",Zee TV
+http://edge4.digijadoo.net/hls/zee_tv_mid/index.m3u8
