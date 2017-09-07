@@ -1,0 +1,22 @@
+/ipv6 firewall filter
+add action=accept chain=input comment="allow ICMPv6" disabled=no protocol=icmpv6
+add action=accept chain=input comment="accept established connections" connection-state=established disabled=no
+add action=accept chain=input comment="accept related connections" connection-state=related disabled=no
+add action=drop chain=input comment="drop invalid connections" connection-state=invalid disabled=no
+add action=accept chain=input comment="uDP" disabled=no protocol=udp
+add action=accept chain=input comment="from wlan" disabled=no in-interface=wlan
+add action=accept chain=input comment="from LAN" disabled=no in-interface=lan
+add action=accept chain=input comment="from Hotspot" disabled=no in-interface=wlan-Public
+add action=log chain=input comment="log everything else" disabled=yes log-prefix="IPV6 INPUT DROP"
+add action=drop chain=input comment="drop everything else" disabled=no
+add action=drop chain=forward comment="drop invalid connections" connection-state=invalid disabled=no
+add action=accept chain=forward comment="accept UDP" disabled=no protocol=udp
+add action=accept chain=forward comment="accept ICMPv6" disabled=no protocol=icmpv6
+add action=accept chain=forward comment="accept established connections" connection-state=established disabled=no
+add action=accept chain=forward comment="accept related connections" connection-state=related disabled=no
+add action=accept chain=forward comment="forward from wlan" disabled=no in-interface=wlan src-address=2001:470:xxxx:2::/64
+add action=accept chain=forward comment="forward from lan" disabled=no in-interface=eth2-lan1 src-address=2001:470:xxxx:1::/64
+add action=accept chain=forward comment="forward from wlan-IPv6" disabled=no in-interface=wlan-IPv6 src-address=2001:470:xxxx:3::/64
+add action=accept chain=forward comment="forward from Hotspot, only to wan" disabled=yes in-interface=wlan-Public out-interface=sit1
+add action=drop chain=forward comment="drop bit torrent on hotspot" disabled=yes in-interface=wlan-Public protocol=tcp
+add action=drop chain=forward comment="drop anything else" disabled=no
