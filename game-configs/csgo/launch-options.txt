@@ -1,0 +1,1 @@
+-novid -high -threads 8 -tickrate 128 -exec autoexec.cfg
