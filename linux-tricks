@@ -1,0 +1,11 @@
+// Add super user permissions to user
+visudo
+%admin ALL=(ALL) NOPASSWD: ALL
+groupadd admin
+usermod -aG admin username
+
+// Remove group from user
+gpasswd -d username group
+
+// Remove password from user
+passwd -d username
