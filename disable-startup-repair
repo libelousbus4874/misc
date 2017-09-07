@@ -1,0 +1,5 @@
+// Enable
+bcdedit /set {default} bootstatuspolicy ignoreallfailures
+
+// Disable
+bcdedit /set {default} bootstatuspolicy displayallfailures
