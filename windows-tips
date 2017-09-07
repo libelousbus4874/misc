@@ -1,0 +1,9 @@
+// Install FX 3.5 from ISO
+DISM /Online /Enable-Feature /FeatureName:NetFx3 /All /LimitAccess /Source:d:\sources\sxs
+
+// Startup Repair 
+ # Enable: 
+   bcdedit /set {default} bootstatuspolicy ignoreallfailures
+ # Disable  
+   bcdedit /set {default} bootstatuspolicy displayallfailures
+
