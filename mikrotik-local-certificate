@@ -1,0 +1,6 @@
+/certificate add name=mt-ca common-name=mt-ca days-valid=3650 key-usage=key-cert-sign,crl-sign
+/certificate sign mt-ca
+/certificate add name=mt common-name=mt days-valid=3650 key-usage=tls-server
+/certificate sign ca=mt-ca mt
+/certificate set trusted=yes mt-ca
+/certificate set trusted=yes mt
