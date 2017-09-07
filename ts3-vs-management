@@ -1,0 +1,9 @@
+// Create 
+servercreate virtualserver_name=VS1 virtualserver_port=9090 virtualserver_maxclients=50
+
+// Edit
+use_port=9090
+serveredit virtualserver_maxclients=50
+
+// Permissions
+servergroupdelperm sgid=3 permsid=b_virtualserver_modify_maxclients|permsid=i_needed_modify_power_virtualserver_modify_maxclients|permsid=b_virtualserver_snapshot_deploy|permsid=b_virtualserver_snapshot_create|permsid=i_needed_modify_power_virtualserver_snapshot_deploy|permsid=i_needed_modify_power_virtualserver_snapshot_create
